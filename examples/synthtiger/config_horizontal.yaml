@@ -16,7 +16,7 @@ corpus:
   weights: [1, 0]
   args:
     # length augmentable corpus
-    - paths: [synthtiger/resources/corpus/test.txt]
+    - paths: [synthtiger/resources/corpus/demo-title.txt]
       weights: [1]
       min_length: 1
       max_length: 25
